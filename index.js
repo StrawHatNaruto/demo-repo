@@ -1,6 +1,9 @@
 const age = 24;
 const sub = 'adi';
 const name =  'aditya';
-console.log("hello world");
 
-crossOriginIsolated("je")
+
+function add (a , b){
+
+    return a + b;
+}
