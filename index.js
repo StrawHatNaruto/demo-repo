@@ -10,8 +10,11 @@ function add (a , b){
 function add (a , b){
 
     console.log(aaaa);
-    
+
     
 
     return a + b;
+
+    confirm
+    console.assert("aditya")
 }
