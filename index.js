@@ -10,10 +10,11 @@ function add (a , b){
 function add (a , b){
 
     console.log(aaaa);
-    
+
     
 
     return a + b;
+
 }
 const age = 24;
 const sub = 'adi';
@@ -31,4 +32,9 @@ function add (a , b){
     
 
     return a + b;
+
+
+    confirm
+    console.assert("aditya")
+ aditya-new
 }
